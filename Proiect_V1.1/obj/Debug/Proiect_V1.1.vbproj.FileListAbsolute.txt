@@ -1,0 +1,16 @@
+c:\users\alex\documents\visual studio 2013\Projects\Proiect_V1.1\Proiect_V1.1\bin\Debug\Proiect_V1.1.exe
+c:\users\alex\documents\visual studio 2013\Projects\Proiect_V1.1\Proiect_V1.1\bin\Debug\Proiect_V1.1.pdb
+c:\users\alex\documents\visual studio 2013\Projects\Proiect_V1.1\Proiect_V1.1\bin\Debug\Proiect_V1.1.xml
+c:\users\alex\documents\visual studio 2013\Projects\Proiect_V1.1\Proiect_V1.1\obj\Debug\Proiect_V1._1.Form1.resources
+c:\users\alex\documents\visual studio 2013\Projects\Proiect_V1.1\Proiect_V1.1\obj\Debug\Proiect_V1._1.Resources.resources
+c:\users\alex\documents\visual studio 2013\Projects\Proiect_V1.1\Proiect_V1.1\obj\Debug\Proiect_V1.1.vbproj.GenerateResource.Cache
+c:\users\alex\documents\visual studio 2013\Projects\Proiect_V1.1\Proiect_V1.1\obj\Debug\Proiect_V1.1.exe
+c:\users\alex\documents\visual studio 2013\Projects\Proiect_V1.1\Proiect_V1.1\obj\Debug\Proiect_V1.1.xml
+c:\users\alex\documents\visual studio 2013\Projects\Proiect_V1.1\Proiect_V1.1\obj\Debug\Proiect_V1.1.pdb
+c:\users\alex\documents\visual studio 2013\Projects\Proiect_V1.1\Proiect_V1.1\bin\Debug\Proiect_V1.1.exe.manifest
+c:\users\alex\documents\visual studio 2013\Projects\Proiect_V1.1\Proiect_V1.1\bin\Debug\Proiect_V1.1.application
+c:\users\alex\documents\visual studio 2013\Projects\Proiect_V1.1\Proiect_V1.1\obj\Debug\Proiect_V1.1.exe.manifest
+c:\users\alex\documents\visual studio 2013\Projects\Proiect_V1.1\Proiect_V1.1\obj\Debug\Proiect_V1.1.application
+C:\Users\Alex\documents\visual studio 2013\Projects\Proiect_V1.1\Proiect_V1.1\obj\Debug\Proiect_V1.1.vbprojResolveAssemblyReference.cache
+C:\Users\Alex\Documents\Visual Studio 2013\Projects\Proiect_V1.1\Proiect_V1.1\obj\Debug\Proiect_V1._1.Form2.resources
+C:\Users\Alex\Documents\Visual Studio 2013\Projects\Proiect_V1.1\Proiect_V1.1\obj\Debug\Proiect_V1._1.Form3.resources
